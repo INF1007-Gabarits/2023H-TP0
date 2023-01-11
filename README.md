@@ -84,10 +84,12 @@ Il vous faut donc faire un 'commit' avant de pouvoir 'push' vos modifications su
 
 *À noter qu'il existe beaucoup plus de commandes Git utiles, mais les commandes ci-haut sont celles que vous utiliserez le plus souvent*
 ## Exercice pour se pratiquer
+L'exercice consiste tout simplement à faire des modifications sur le fichier python intitulé --- et disponible sur ce répertoire GitHub en y ajoutant un 'print statement' qui affiche votre nom et prénom. N'oubliez pas d'écrire un message indiquant les modifications que vous avez réalisées! 
 
 ## :keyboard: Instructions pour l'accès au terminal
 
 ### Windows
+Sur Windows, afin de travailler sur le terminal, il est plus simple d'installer Anaconda via [ce lien](https://www.anaconda.com/products/distribution#). Par la suite, aller chercher 'Anaconda Prompt (Anaconda 3)' dans la barre de recherche afin de commencer à l'utiliser!
 
 ### Mac
 
@@ -95,7 +97,7 @@ Il vous faut donc faire un 'commit' avant de pouvoir 'push' vos modifications su
 
 ## Comment naviguer entre des fichiers via le terminal
 
-Voici les commandes les plus utilisées afin de naviguer sur le terminal pour vous mettre, par exemple, à l'endroit où vous voulez cloner un répertoire Git. Le terminal fonctionne selon des chemins vers vos fichiers qui peuvent s'apparenter à une adresse. Initialement le terminal ressemblera à ceci si vous êtes sur Windows:
+Voici les commandes les plus utilisées afin de naviguer sur le terminal pour vous mettre, par exemple, à l'endroit où vous voulez cloner un répertoire GitHub. Le terminal fonctionne selon des chemins vers vos fichiers qui peuvent s'apparenter à une adresse. Initialement le terminal ressemblera à ceci si vous êtes sur Windows:
 ```bash
     (base) C:\Users\votre-username>
 ```
@@ -116,7 +118,7 @@ Qui vous remet donc à:
 ```bash
     (base) C:\Users\votre-username\Documents>
 ```
-Finalement, pour savoir à tout moment vous vous situez à quel endroit et bien taper 'pwd' signifiant 'print working directory' qui vous imprimera le chemin auquel vous êtes présentement. 
+Finalement, pour savoir à tout moment vous vous situez à quel endroit, et bien tapez 'pwd' signifiant 'print working directory' qui vous imprimera le chemin auquel vous êtes présentement. 
 
 Voilà, le tour est joué! :sparkler:
 
