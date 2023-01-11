@@ -67,8 +67,22 @@ Lorsque vous commencez à travailler sur un projet d'équipe dont vous savez pot
 ```
 ### Git status
 Cette commande qui est souvent négligée ou oubliée, mais pourtant très utile, permet de vous dire où vous en être rendu dans le 'workflow' de Git. Ainsi, il vous avise à quelle étape vous êtes rendue... Dois-je 'add', 'commit' ou bien suis-je prêt à 'push' ma version locale vers GitHub? Toutes vos questions seront répondues!
+Des exemples de statuts sont:
+```bash
+    nothing to commit, working tree clean
+```
+Vous êtes donc prêts à push, ou bien:
+```bash
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.md
 
-*À noter qu'il existe beaucoup plus de commandes Git utiles, mais celles-ci sont celles que vous utiliserez le plus souvent*
+no changes added to commit (use "git add" and/or "git commit -a")
+```
+Il vous faut donc faire un 'commit' avant de pouvoir 'push' vos modifications sur le serveur virtuel GitHub!
+
+*À noter qu'il existe beaucoup plus de commandes Git utiles, mais les commandes ci-haut sont celles que vous utiliserez le plus souvent*
 ## Exercice pour se pratiquer
 
 ## :keyboard: Instructions pour l'accès au terminal
