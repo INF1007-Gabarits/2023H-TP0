@@ -90,6 +90,7 @@ L'exercice consiste tout simplement à faire des modifications sur le fichier py
 
 ### Windows
 Sur Windows, afin de travailler sur le terminal, il est plus simple d'installer Anaconda via [ce lien](https://www.anaconda.com/products/distribution#). Par la suite, aller chercher 'Anaconda Prompt (Anaconda 3)' dans la barre de recherche afin de commencer à l'utiliser!
+Vous pouvez aussi utiliser l'application 'Git CMD' qui s'installe automatiquement après avoir installé [Git](https://git-scm.com/download/win) et qui est également un terminal.
 
 ### Mac
 
