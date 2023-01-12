@@ -84,7 +84,7 @@ Il vous faut donc faire un 'commit' avant de pouvoir 'push' vos modifications su
 
 *À noter qu'il existe beaucoup plus de commandes Git utiles, mais les commandes ci-haut sont celles que vous utiliserez le plus souvent*
 ## Exercice pour se pratiquer
-L'exercice consiste tout simplement à faire des modifications sur le fichier python intitulé --- et disponible sur ce répertoire GitHub en y ajoutant un 'print statement' qui affiche votre nom et prénom. N'oubliez pas d'écrire un message indiquant les modifications que vous avez réalisées! 
+L'exercice consiste tout simplement à faire des modifications sur le fichier python intitulé `hello.py` et disponible sur ce répertoire GitHub en y ajoutant un 'print statement' qui affiche votre nom et prénom. N'oubliez pas d'écrire un message indiquant les modifications que vous avez réalisées!
 
 ## :keyboard: Instructions pour l'accès au terminal
 
