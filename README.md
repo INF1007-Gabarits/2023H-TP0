@@ -88,13 +88,19 @@ L'exercice consiste tout simplement à faire des modifications sur le fichier py
 
 ## :keyboard: Instructions pour l'accès au terminal
 
+
+
 ### Windows
 Sur Windows, afin de travailler sur le terminal, il est plus simple d'installer Anaconda via [ce lien](https://www.anaconda.com/products/distribution#). Par la suite, aller chercher 'Anaconda Prompt (Anaconda 3)' dans la barre de recherche afin de commencer à l'utiliser!
 Vous pouvez aussi utiliser l'application 'Git CMD' qui s'installe automatiquement après avoir installé [Git](https://git-scm.com/download/win) et qui est également un terminal.
 
 ### Mac
 
+Pour ouvrir le terminal, appuyez sur les touches `Commande + Espace`, écrivez `Terminal` et choisissez la 1ère application qui s'affiche, ça devrait être un carré noir avec un `>` dans le coin en haut à gauche.
+
 ### Linux
+
+Pour ouvrir le terminal, appuyez sur la touche `Windows`, écrivez `Terminal` et choisissez la 1ère application qui s'affiche. Vous pouvez aussi utiliser le raccourci `CTRL + ALT + T` pour ouvrir un terminal directement.
 
 ## Comment naviguer entre des fichiers via le terminal
 
