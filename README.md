@@ -24,10 +24,10 @@ La visualisation des jupyter notebook est possible directement via l'environneme
   - [Ressources additionnelles](#ressources-additionnelles)
 
 ## Objectif
-Se familiariser avec les commandes les plus communes que vous allez utiliser sur Git/GitHub via un terminal (voir les [instructions particulières pour l'accès au terminal] pour votre système d'exploitation) en modifiant un fichier à l'[exercice ci-bas](#exercice-pour-se-pratiquer).
+Se familiariser avec les commandes les plus communes que vous allez utiliser sur Git/GitHub via un terminal (voir les [instructions particulières pour l'accès au terminal](#keyboard-instructions-pour-laccès-au-terminal) pour votre système d'exploitation) en modifiant un fichier à l'[exercice ci-bas](#exercice-pour-se-pratiquer).
 
 ## :octocat: Qu'est-ce que Git/GitHub?
-Git est un système de gestion de versions, il vous permet de garder un historique de toutes les modifications que vous faites dans un répertoire (lieu où vous sauvegarder un TP/Projet dans votre cas) aux fichiers qui y sont présents. Ainsi, il est plus facile de vous rappeler les divers modifications qui y ont été faites en les associant à un message informatif. Ceci enlève le risque de perdre votre travail puisque tout est inventorié. Également, Git facilite le travail collaboratif puisque deux personnes peuvent avoir une copie locale du même projet auquel ils font des modifications en parallèle. Quant à lui, GitHub est le serveur virtuel qui permet d'entreposer divers projets et d'être à nouveau au courant de leur historique ou de l'utiliser pour y apporter des changements. 
+Git est un système de gestion de versions, il vous permet de garder un historique de toutes les modifications que vous faites dans un répertoire (lieu où vous sauvegardez un TP/Projet dans votre cas) aux fichiers qui y sont présents. Ainsi, il est plus facile de vous rappeler les divers modifications qui y ont été faites en les associant à un message informatif. Ceci enlève le risque de perdre votre travail puisque tout est inventorié. Également, Git facilite le travail collaboratif puisque deux personnes peuvent avoir une copie locale du même projet auquel ils font des modifications en parallèle. Quant à lui, GitHub est site web qui permet d'entreposer des répertoires Git en ligne.
 
 ## :computer: Commandes les plus utilisées
 
@@ -87,8 +87,6 @@ Il vous faut donc faire un 'commit' avant de pouvoir 'push' vos modifications su
 L'exercice consiste tout simplement à faire des modifications sur le fichier python intitulé `hello.py` et disponible sur ce répertoire GitHub en y ajoutant un 'print statement' qui affiche votre nom et prénom. N'oubliez pas d'écrire un message indiquant les modifications que vous avez réalisées!
 
 ## :keyboard: Instructions pour l'accès au terminal
-
-
 
 ### Windows
 Sur Windows, afin de travailler sur le terminal, il est plus simple d'installer Anaconda via [ce lien](https://www.anaconda.com/products/distribution#). Par la suite, aller chercher 'Anaconda Prompt (Anaconda 3)' dans la barre de recherche afin de commencer à l'utiliser!
