@@ -84,7 +84,7 @@ Il vous faut donc faire un 'commit' avant de pouvoir 'push' vos modifications su
 
 *À noter qu'il existe beaucoup plus de commandes Git utiles, mais les commandes ci-haut sont celles que vous utiliserez le plus souvent*
 ## Exercice pour se pratiquer
-L'exercice consiste tout simplement à faire des modifications sur le fichier python intitulé `hello.py` 1ui est disponible sur ce répertoire GitHub en suivant les TODO indiqués. Il faut ajouter l'équation de l'aire d'un cercler afin d'y afficher par la suite l'aire. Aussi, à l'aide d'un second 'print statement', affichez votre nom et prénom. N'oubliez pas d'écrire un message indiquant les modifications que vous avez réalisées!
+L'exercice consiste tout simplement à faire des modifications sur le fichier python intitulé `hello.py` qui est disponible sur ce répertoire GitHub en suivant les TODO indiqués. Il faut ajouter l'équation de l'aire d'un cercle afin d'y afficher par la suite l'aire. Aussi, à l'aide d'un second 'print statement', affichez votre nom et prénom. N'oubliez pas d'écrire un message indiquant les modifications que vous avez réalisées!
 
 ## :keyboard: Instructions pour l'accès au terminal
 
