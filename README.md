@@ -1,10 +1,10 @@
-# 2023H-TP0
+# TP0: Introduction au terminal et à Git/GitHub
 
 *À noter: le tutoriel ci-bas est à réaliser après avoir consulté le jupyter notebook intitulé intro_TP0.ipynb*
 La visualisation des jupyter notebook est possible directement via l'environnement PyCharm ou Visual Studio Code que vous avez déjà installé.
 
 ## Contenu
-- [2023H-TP0](#2023h-tp0)
+- [TP0: Introduction au terminal et à Git/GitHub](#tp0-introduction-au-terminal-et-à-gitgithub)
   - [Contenu](#contenu)
   - [Objectif](#objectif)
   - [:octocat: Qu'est-ce que Git/GitHub?](#octocat-quest-ce-que-gitgithub)
