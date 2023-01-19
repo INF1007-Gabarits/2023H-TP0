@@ -40,7 +40,7 @@ Afin de débuter, il faut s'assurer d'avoir installé [Git]() au préalable en s
 5. Vous être prêts à faire toutes les [commandes les plus utilisées](#computer-commandes-les-plus-utilisées) de Git à partir de [git add](git-add) jusqu'à [git push](#git-push), c'est parti!
 6. (Optionnel) Vérifier que tout a été mis sur GitHub en cliquant sur refresh et en voyant vos modifications!
 
-| <img alt="a title" src="images/open_folder.PNG"> | 
+| <img src="images/open_folder.PNG"> | 
 |:--:| 
 | *Figure 1* |
 
