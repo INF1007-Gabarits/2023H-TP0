@@ -8,6 +8,7 @@ La visualisation des jupyter notebook est possible directement via l'environneme
   - [Contenu](#contenu)
   - [Objectif](#objectif)
   - [:octocat: Qu'est-ce que Git/GitHub?](#octocat-quest-ce-que-gitgithub)
+  - [Ouvrir un nouveau dossier sur VSCode et l'utiliser](#ouvrir-un-nouveau-dossier-sur-vscode-et-lutiliser)
   - [:computer: Commandes les plus utilisées](#computer-commandes-les-plus-utilisées)
     - [Git clone](#git-clone)
     - [Git add](#git-add)
@@ -28,6 +29,21 @@ Se familiariser avec les commandes les plus communes que vous allez utiliser sur
 
 ## :octocat: Qu'est-ce que Git/GitHub?
 Git est un système de gestion de versions, il vous permet de garder un historique de toutes les modifications que vous faites dans un répertoire (lieu où vous sauvegardez un TP/Projet dans votre cas) aux fichiers qui y sont présents. Ainsi, il est plus facile de vous rappeler les divers modifications qui y ont été faites en les associant à un message informatif. Ceci enlève le risque de perdre votre travail puisque tout est inventorié. Également, Git facilite le travail collaboratif puisque deux personnes peuvent avoir une copie locale du même projet auquel ils font des modifications en parallèle. Quant à lui, GitHub est site web qui permet d'entreposer des répertoires Git en ligne.
+
+## Ouvrir un nouveau dossier sur VSCode et l'utiliser
+Afin de débuter, il faut s'assurer d'avoir installé [Git]() au préalable en suivant le lien. Par la suite, voici les étapes à réaliser:
+
+1. Se créer un dossier INF1007 quelque part sur son ordinateur pour y garder les prochains TPs et projets en plus du TP0 actuel. Il est aussi possible de le faire directement via un terminal en utilisant la commande `mkdir`
+2. Ouvrir VSCode ou PyCharm et cliquer sur `Open Folder` tel qu'illustré sur la Figure 1 ci-dessous et choisir le nouveau dossier INF1007 créé
+3. Cliquer sur `Terminal` dans la barre de recherche de VSCode puis `New Terminal` pour commencer avec la première commande git soit [git clone](#git-clone) ou bien sur PyCharm c'est en bas de la page et nommé `Terminal` aussi.
+4. Maintenant, vous pouvez fermer le VSCode ou bien cliquer sur `File` puis `Open Folder...` et ouvrir maintenant le répertoire GitHub qui a été cloné (intitulé par exemple L01-TP0-votre-username-git)
+5. Vous être prêts à faire toutes les [commandes les plus utilisées](#computer-commandes-les-plus-utilisées) de Git à partir de [git add](git-add) jusqu'à [git push](#git-push), c'est parti!
+6. (Optionnel) Vérifier que tout a été mis sur GitHub en cliquant sur refresh et en voyant vos modifications!
+
+| <img alt="a title" src="images/open_folder.PNG"> | 
+|:--:| 
+| *Figure 1* |
+
 
 ## :computer: Commandes les plus utilisées
 
